@@ -1,0 +1,25 @@
+                              Bezier Patch Editor Installation
+                              ================================
+
+
+Systems Which are Supported or Known to work:
+=============================================
+
+  o LINUX
+  o Windows 2000, Windows NT 4, Windows 9x, (VC++)
+  
+
+
+For LINUX systems
+===================
+
+An OpenGl library have to be installed. If no OpenGL driver is present, we can recommend Mesa, 
+which is a software emulated OpenGL driver. We tested it with Mesa and it works fine.
+
+To compile, just use "make"
+
+
+Windows Builds.
+===============
+
+We compiled BePPe with Microsoft C++ 6.0. Project files are included.
